@@ -6,7 +6,7 @@
 // SET YOUR COOKIE BELOW
 
 module.exports = {
-    "Cookie": "process.env.Cookie",
+    "Cookie": "sessionKey=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",
     "CookieArray": [],
     "Ip": "127.0.0.1",
     "Port": 8444,
